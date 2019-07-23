@@ -5,4 +5,8 @@ Currently Implemented:
 
 1. [Atrial fibrillation from ecg scan using MIT-bih dataset.](https://github.com/sanchit2843/healthcare.ai/tree/master/ECGclassification)
 2. [Detecting Malaria from blood cell microscopic images.](https://github.com/sanchit2843/healthcare.ai/tree/master/malaria)
-3. [Pneumonia detection from chestxray images.]()
+3. [Pneumonia detection from chestxray images with class activation maps.](https://github.com/sanchit2843/healthcad/blob/master/pneumoniadensenet.ipynb)
+
+
+# Class Activation Maps
+![](https://github.com/sanchit2843/healthcad/blob/master/assets/Cam.PNG)
